@@ -20,7 +20,9 @@ header {
   background-color: white;
   color: #50435e;
   font-size: 3em;
-  padding: 1%;
+  padding-left: 3%;
+  padding-top: 1.2%;
+  padding-bottom: 1%;
   margin: 0;
   font-family: 'Sacramento', cursive;
   overflow: hidden;
@@ -53,7 +55,7 @@ strong {
 
 #aboutme {
   color: #50435e;
-  width: 60%;
+  width: 75%;
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 60px;
@@ -69,6 +71,8 @@ strong {
   width: 100%;
   font-family: 'Kanit', sans-serif;
   margin-top: -16px;
+  font-size: 0.8em;
+  line-height: 3em;
 
 }
 
@@ -82,7 +86,7 @@ strong {
   background-color: white;
   color: #50435e;
   font-family: 'Quicksand', sans-serif;
-  width: 60%;
+  width: 75%;
   margin: 0 auto;
 
 }
@@ -98,10 +102,11 @@ strong {
   padding-right: 5px;
   font-family: 'Quicksand', sans-serif;
   color: #50435e;
+  font-size: 0.9em;
 }
 
 #travel {
-  width: 55%;
+  width: 65%;
   font-family: 'Quicksand', sans-serif;
   padding: 1px 1px;
   margin: 0 auto;
@@ -141,7 +146,7 @@ footer {
 footer li {
   display: inline;
 padding-right: 1em;
-padding-left: 1em;
+
   font-size: 0.9em;
 
   text-align: center;
@@ -158,5 +163,5 @@ footer a:hover {
 
 footer p {
   font-size: 0.5em;
-  padding-left: 5em;
+padding-bottom: 5px;
 }
